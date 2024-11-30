@@ -1,5 +1,6 @@
 {
-  // https://nuxt.com/docs/guide/concepts/typescript x
+  // https://nuxt.com/docs/guide/concepts/typescript release
+  
   "extends": "./.nuxt/tsconfig.json",
 
   "compilerOptions": {
